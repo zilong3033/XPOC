@@ -16,7 +16,7 @@
 
 ​        ext存放辅助工具，代码，字典等。
 
-​        lib存放POC的jar包
+​        lib存放POC的第三方工具jar包
 
 ​        支持HTTP扫描和socket，http扫描和HOST:PORT扫描主要考http协议区分，不是https，http协议默认为HOST:PORT模式。
 
